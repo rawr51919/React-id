@@ -3,6 +3,7 @@
   "version": "1.0.6",
   "description": "A simple unique ID generator for projects using JavaScript.",
   "main": "src/React-Id.js",
+  "types": "src/React-Id.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
