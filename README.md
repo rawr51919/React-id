@@ -8,7 +8,7 @@ To use ReactID in your project, follow these steps:
 2. Run the following command to install the ReactID package from npm:
 
 ```bash
-  npm install reactjs-id
+npm install reactjs-id
 ```
 
 ## Usage
