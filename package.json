@@ -1,0 +1,19 @@
+{
+  "name": "react-id",
+  "version": "1.0.6",
+  "description": "A simple unique ID generator for projects using JavaScript.",
+  "main": "src/React-Id.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vintage-creator/React-id.git"
+  },
+  "author": "vintage-creator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vintage-creator/React-id/issues"
+  },
+  "homepage": "https://github.com/vintage-creator/React-id#readme"
+}
