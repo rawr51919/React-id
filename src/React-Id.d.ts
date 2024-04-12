@@ -1,2 +1,2 @@
-declare function ReactId(): string;
+export function ReactId(): string;
 //# sourceMappingURL=React-Id.d.ts.map
